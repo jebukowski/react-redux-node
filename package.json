@@ -1,0 +1,7 @@
+{
+  "name": "react-redux-node",
+  "version": "1.0.0",
+  "description": "App using React, Redux, Node, and NeDB",
+  "author": "J. Eric Bukowski",
+  "license": "ISC"
+}
