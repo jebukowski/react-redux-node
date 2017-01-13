@@ -1,0 +1,16 @@
+// credentials
+export const CREDENTIALS_CHANGE = 'CREDENTIALS_CHANGE';
+
+// login
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+
+// logout
+export const LOGOUT_REQUEST = 'LOGOUT_REQUEST';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+
+// backend details
+export const BACKEND_DETAILS_REQUEST = 'BACKEND_DETAILS_REQUEST';
+export const BACKEND_DETAILS_SUCCESS = 'BACKEND_DETAILS_SUCCESS';
+export const BACKEND_DETAILS_ERROR = 'BACKEND_DETAILS_ERROR';
